@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bold.png</file>
+        <file>images/clear.png</file>
+        <file>images/color.png</file>
+        <file>images/italic.png</file>
+        <file>images/save.png</file>
+        <file>images/send.png</file>
+        <file>images/under.png</file>
+        <file>images/welcome.png</file>
+        <file>images/btnnormal.png</file>
+        <file>images/btnressed.png</file>
+        <file>images/nofirstgif.gif</file>
+        <file>images/bj.jpg</file>
+        <file>images/c2bed7d90a44bf059be781814dbb9d25.jpg</file>
+        <file>images/ed39ab58cdb5e8cf6d12fac1a49491a9.jpg</file>
+        <file>images/server.png</file>
+        <file>images/widgetbg.png</file>
+        <file>images/voice.png</file>
+        <file>images/camera.png</file>
+        <file>images/scissors_23.434554973822px_1200891_easyicon.net.png</file>
+    </qresource>
+</RCC>
